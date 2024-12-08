@@ -1,0 +1,1 @@
+This is the GitHub Repo for my DS 501 Case Study 3, creating a R shiny app about a wine quality dataset from Kaggle. The app looks at how a basic neural network's performance can be adjusted with hyperparameters and see the difference in output metrics in real time.
